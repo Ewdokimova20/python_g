@@ -1,0 +1,1 @@
+import{g as u,s as f}from"./setItemToLS-BDlwVMSR.js";import{a5 as n,r as c,w as l}from"./index-B9ncFhZ9.js";function b(r){const s=n(),a=s.bisList[0]!=null?Array(6).fill(s.bisList[0]):Array(6).fill(null),i=u(r)??a,t=c(i);return l(()=>s.bisList,e=>{e.length>0&&t.value.every(o=>o===null)&&(t.value=Array(6).fill(e[0]))}),l(t,e=>{f(r,e)},{deep:!0}),t}export{b as u};

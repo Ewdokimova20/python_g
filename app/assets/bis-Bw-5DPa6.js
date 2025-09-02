@@ -1,0 +1,1 @@
+import{a5 as l}from"./index-B9ncFhZ9.js";const t=l(),n=s=>{var e,r;return s==null?"-/-":((e=t.bisLabels)==null?void 0:e[s])!=null?(r=t.bisLabels)==null?void 0:r[s]:"-/-"},u=()=>t.bisList[0]??null;export{n as b,u as g};
